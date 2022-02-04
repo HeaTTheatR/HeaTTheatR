@@ -3,8 +3,21 @@ I am the core developer of the <a href="https://github.com/kivymd/KivyMD" target
 
 <img src="https://github.com/HeaTTheatR/KivyMD-data/blob/master/gallery/banner.png" halign="center" alt="banner">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeaTTheatR&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HeaTTheatR&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeaTTheatR&theme=default)
+<table>
+<tbody>
+<tr>
+<td>
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeaTTheatR&theme=default)
+
+</td>
+<td>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeaTTheatR)](https://github.com/HeaTTheatR/github-readme-stats)
+
+</td>
+</tr>
+</tbody>
+</table>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=HeaTTheatR.readme)
