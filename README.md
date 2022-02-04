@@ -20,4 +20,6 @@ I am the core developer of the <a href="https://github.com/kivymd/KivyMD" target
 </tbody>
 </table>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HeaTTheatR&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=HeaTTheatR.readme)
